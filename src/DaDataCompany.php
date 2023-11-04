@@ -1,15 +1,15 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace Icekristal\DaData;
 
-use MoveMoveIo\DaData\Enums\BranchType;
-use MoveMoveIo\DaData\Enums\CompanyScope;
-use MoveMoveIo\DaData\Enums\CompanyStatus;
-use MoveMoveIo\DaData\Enums\CompanyType;
+use Icekristal\DaData\Enums\BranchType;
+use Icekristal\DaData\Enums\CompanyScope;
+use Icekristal\DaData\Enums\CompanyStatus;
+use Icekristal\DaData\Enums\CompanyType;
 
 /**
  * Class DaDataPhone
- * @package MoveMoveIo\DaData
+ * @package Icekristal\DaData
  */
 class DaDataCompany extends DaDataService
 {

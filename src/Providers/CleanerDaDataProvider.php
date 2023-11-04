@@ -1,10 +1,10 @@
 <?php
 
-namespace MoveMoveIo\DaData\Providers;
+namespace Icekristal\DaData\Providers;
 
 /**
  * Class CleanerDaDataProvider
- * @package MoveMoveIo\DaData\Providers
+ * @package Icekristal\DaData\Providers
  */
 class CleanerDaDataProvider
 {

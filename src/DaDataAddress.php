@@ -1,12 +1,12 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace Icekristal\DaData;
 
-use MoveMoveIo\DaData\Enums\Language;
+use Icekristal\DaData\Enums\Language;
 
 /**
  * Class DaDataAddress
- * @package MoveMoveIo\DaData
+ * @package Icekristal\DaData
  */
 class DaDataAddress extends DaDataService
 {

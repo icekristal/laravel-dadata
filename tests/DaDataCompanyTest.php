@@ -1,15 +1,15 @@
 <?php
 
-namespace MoveMoveIo\DaData\Tests;
+namespace Icekristal\DaData\Tests;
 
-use MoveMoveIo\DaData\Enums\BranchType;
-use MoveMoveIo\DaData\Enums\CompanyStatus;
-use MoveMoveIo\DaData\Enums\CompanyType;
-use MoveMoveIo\DaData\Facades\DaDataCompany;
+use Icekristal\DaData\Enums\BranchType;
+use Icekristal\DaData\Enums\CompanyStatus;
+use Icekristal\DaData\Enums\CompanyType;
+use Icekristal\DaData\Facades\DaDataCompany;
 
 /**
  * Class DaDataCompanyTest
- * @package MoveMoveIo\DaData\Tests
+ * @package Icekristal\DaData\Tests
  */
 class DaDataCompanyTest extends TestCase
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace Icekristal\DaData;
 
 use Carbon\Laravel\ServiceProvider;
 
 /**
  * Class DaDataServiceProvider
- * @package MoveMoveIo\DaData
+ * @package Icekristal\DaData
  */
 class DaDataServiceProvider extends ServiceProvider
 {

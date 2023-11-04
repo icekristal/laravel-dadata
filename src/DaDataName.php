@@ -1,13 +1,13 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace Icekristal\DaData;
 
-use MoveMoveIo\DaData\Enums\Gender;
-use MoveMoveIo\DaData\Enums\Parts;
+use Icekristal\DaData\Enums\Gender;
+use Icekristal\DaData\Enums\Parts;
 
 /**
  * Class DaDataName
- * @package MoveMoveIo\DaData
+ * @package Icekristal\DaData
  */
 class DaDataName extends DaDataService
 {

@@ -1,13 +1,13 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace Icekristal\DaData;
 
-use MoveMoveIo\DaData\Providers\CleanerDaDataProvider;
-use MoveMoveIo\DaData\Providers\SuggestDaDataProvider;
+use Icekristal\DaData\Providers\CleanerDaDataProvider;
+use Icekristal\DaData\Providers\SuggestDaDataProvider;
 
 /**
  * Class DaDataService
- * @package MoveMoveIo\DaData
+ * @package Icekristal\DaData
  */
 class DaDataService
 {

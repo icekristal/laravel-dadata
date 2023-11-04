@@ -1,10 +1,10 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace Icekristal\DaData;
 
 /**
  * Class DaDataPhone
- * @package MoveMoveIo\DaData
+ * @package Icekristal\DaData
  */
 class DaDataPhone extends DaDataService
 {

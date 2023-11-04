@@ -1,14 +1,14 @@
 <?php
 
-namespace MoveMoveIo\DaData\Facades;
+namespace Icekristal\DaData\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
  * Class DaDataName
- * @package MoveMoveIo\DaData\Facades
- * @method \MoveMoveIo\DaData\DaDataName standardization(string $name)
- * @method \MoveMoveIo\DaData\DaDataName prompt(string $name, int $count, int $gender, array $parts)
+ * @package Icekristal\DaData\Facades
+ * @method \Icekristal\DaData\DaDataName standardization(string $name)
+ * @method \Icekristal\DaData\DaDataName prompt(string $name, int $count, int $gender, array $parts)
  */
 class DaDataName extends Facade
 {

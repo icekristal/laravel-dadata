@@ -1,12 +1,12 @@
 <?php
 
-namespace MoveMoveIo\DaData\Tests;
+namespace Icekristal\DaData\Tests;
 
-use MoveMoveIo\DaData\Facades\DaDataEmail;
+use Icekristal\DaData\Facades\DaDataEmail;
 
 /**
  * Class DaDataEmailTest
- * @package MoveMoveIo\DaData\Tests
+ * @package Icekristal\DaData\Tests
  */
 class DaDataEmailTest extends TestCase
 {

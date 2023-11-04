@@ -1,10 +1,10 @@
 <?php
 
-namespace MoveMoveIo\DaData\Enums;
+namespace Icekristal\DaData\Enums;
 
 /**
  * Class CompanyScope
- * @package MoveMoveIo\DaData\Enums
+ * @package Icekristal\DaData\Enums
  */
 class CompanyScope
 {

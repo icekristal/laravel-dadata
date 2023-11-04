@@ -1,15 +1,15 @@
 <?php
 
-namespace MoveMoveIo\DaData\Tests;
+namespace Icekristal\DaData\Tests;
 
-use MoveMoveIo\DaData\Enums\Gender;
-use MoveMoveIo\DaData\Enums\Parts;
-use MoveMoveIo\DaData\Facades\DaDataName;
-use MoveMoveIo\DaData\Facades\DaDataPassport;
+use Icekristal\DaData\Enums\Gender;
+use Icekristal\DaData\Enums\Parts;
+use Icekristal\DaData\Facades\DaDataName;
+use Icekristal\DaData\Facades\DaDataPassport;
 
 /**
  * Class DaDataPassportTest
- * @package MoveMoveIo\DaData\Tests
+ * @package Icekristal\DaData\Tests
  */
 class DaDataPassportTest extends TestCase
 {

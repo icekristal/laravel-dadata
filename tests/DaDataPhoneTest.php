@@ -1,8 +1,8 @@
 <?php
 
-namespace MoveMoveIo\DaData\Tests;
+namespace Icekristal\DaData\Tests;
 
-use MoveMoveIo\DaData\Facades\DaDataEmail;
+use Icekristal\DaData\Facades\DaDataEmail;
 
 class DaDataPhoneTest extends TestCase
 {

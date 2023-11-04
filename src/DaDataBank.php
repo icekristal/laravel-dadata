@@ -1,14 +1,14 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace Icekristal\DaData;
 
-use MoveMoveIo\DaData\Enums\BankStatus;
-use MoveMoveIo\DaData\Enums\BankType;
-use MoveMoveIo\DaData\Enums\CompanyType;
+use Icekristal\DaData\Enums\BankStatus;
+use Icekristal\DaData\Enums\BankType;
+use Icekristal\DaData\Enums\CompanyType;
 
 /**
  * Class DaDataBank
- * @package MoveMoveIo\DaData
+ * @package Icekristal\DaData
  */
 class DaDataBank extends DaDataService
 {

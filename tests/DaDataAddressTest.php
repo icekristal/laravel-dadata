@@ -1,8 +1,8 @@
 <?php
 
-namespace MoveMoveIo\DaData\Tests;
+namespace Icekristal\DaData\Tests;
 
-use MoveMoveIo\DaData\Facades\DaDataAddress;
+use Icekristal\DaData\Facades\DaDataAddress;
 
 class DaDataAddressTest extends TestCase
 {

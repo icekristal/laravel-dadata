@@ -1,10 +1,10 @@
 <?php
 
-namespace MoveMoveIo\DaData\Providers;
+namespace Icekristal\DaData\Providers;
 
 /**
  * Class SuggestDaDataProvider
- * @package MoveMoveIo\DaData\Providers
+ * @package Icekristal\DaData\Providers
  */
 class SuggestDaDataProvider
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace MoveMoveIo\DaData\Enums;
+namespace Icekristal\DaData\Enums;
 
 /**
  * Class Gender
- * @package MoveMoveIo\DaData\Enums
+ * @package Icekristal\DaData\Enums
  */
 class Gender
 {

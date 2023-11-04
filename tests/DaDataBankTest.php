@@ -1,14 +1,14 @@
 <?php
 
-namespace MoveMoveIo\DaData\Tests;
+namespace Icekristal\DaData\Tests;
 
-use MoveMoveIo\DaData\Enums\BankStatus;
-use MoveMoveIo\DaData\Enums\BankType;
-use MoveMoveIo\DaData\Facades\DaDataBank;
+use Icekristal\DaData\Enums\BankStatus;
+use Icekristal\DaData\Enums\BankType;
+use Icekristal\DaData\Facades\DaDataBank;
 
 /**
  * Class DaDataBankTest
- * @package MoveMoveIo\DaData\Tests
+ * @package Icekristal\DaData\Tests
  */
 class DaDataBankTest extends TestCase
 {
