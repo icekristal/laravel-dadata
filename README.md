@@ -23,7 +23,7 @@ composer require icekristal/laravel-dadata
 ```shell script
 'providers' => [
   // ...
-  MoveMoveIo\DaData\DaDataServiceProvider::class,
+  Icekristal\DaData\DaDataServiceProvider::class,
 ],
 
 ``` 
@@ -31,7 +31,7 @@ composer require icekristal/laravel-dadata
 Публикация конфигурационного файла. Выполните `artisan` команду
 
 ```shell script
-php artisan vendor:publish --provider="MoveMoveIo\DaData\DaDataServiceProvider"
+php artisan vendor:publish --provider="Icekristal\DaData\DaDataServiceProvider"
 ```
 
 Настройка проекта осществляется через `.env` вашего проекта. Вам необходимо указать три параметра
