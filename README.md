@@ -15,7 +15,7 @@
 Вы можете установить пакет через composer:
 
 ```shell script
-composer require movemoveapp/laravel-dadata
+composer require icekristal/laravel-dadata
 ```
 
 Если вы используете версию Laravel ниже **5.5**, то зарегистрируйте `DaDataServiceProvider` вручную, добавив в `config/app.php`в массиве `providers`:
